@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @VincTBest
-- 👀 I’m interested in codeing
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me : u cant
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: im a human
+me like transistors
 
-<!---
-VincTBest/VincTBest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![VincTBest's Stats](https://github-readme-stats.vercel.app/api?username=VincTBest&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![VincTBest's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VincTBest&theme=tokyonight&hide_border=true)
+![VincTBest's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincTBest&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
